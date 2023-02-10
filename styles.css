@@ -10,3 +10,18 @@
     font-family: Helvetica, sans-serif;
     font-size: 24px;
 }
+
+img {
+    height: auto;
+    width: 600px;
+}
+
+.instruction {
+    font-family: Helvetica, sans-serif;
+    font-size: 28px;
+}
+
+.description {
+    font-family: Helvetica, sans-serif;
+    font-size: 20px;
+}
